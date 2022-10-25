@@ -1,2 +1,2 @@
 # image-classification
-Exercise Project "Belajar Machine Learning untuk Pemula" Dicoding
+Project Latihan Klasifikasi Gambar Clean VS Messy Bedroom di kelas Belajar Machine Learning untuk Pemula
